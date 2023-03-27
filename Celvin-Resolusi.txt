@@ -1,0 +1,5 @@
+Halo pak, Nama saya Celvin dari New York
+
+Resolusi saya:
+- membuat website menggunakan fremework javascript
+- bekerja di startup
